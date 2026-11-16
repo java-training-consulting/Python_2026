@@ -1,0 +1,10 @@
+https://de.wikipedia.org/wiki/Programmablaufplan
+https://de.wikipedia.org/wiki/Nassi-Shneiderman-Diagramm
+https://www.mrge.de/lehrer/sigismund/python/grundlagen/gcd.html
+
+https://www.geeksforgeeks.org/python/differences-and-applications-of-list-tuple-set-and-dictionary-in-python/
+
+https://pypi.org/
+https://learn.microsoft.com/de-de/sysinternals/
+
+https://crates.io/crates/lua-pm
