@@ -1,0 +1,38 @@
+# --- PyCharm / JetBrains IDE ---
+.idea/
+*.iml
+out/
+gen/
+
+# --- Python Cache & kompilierte Dateien ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# --- Virtuelle Umgebungen (Virtual Environments) ---
+.venv/
+venv/
+env/
+ENV/
+.python-version
+
+# --- Distribution / Packaging ---
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# --- Tests & Coverage ---
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# --- Umgebungsvariablen & Geheimnisse (Passwörter/API-Keys) ---
+.env
+*.env
+
+# --- Betriebssystem-Dateien (optional, aber empfohlen) ---
+.DS_Store
+Thumbs.db
